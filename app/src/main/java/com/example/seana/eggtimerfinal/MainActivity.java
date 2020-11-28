@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     SeekBar timerSeekBar;
     TextView textView;
+    String x;
 
 
 
